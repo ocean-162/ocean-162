@@ -1,6 +1,6 @@
 <h1>Hello!</h1><br>
 <p style="text-align:left;">
-Bro:<br>
+My friend,<br>
 </p>
 <p style="text-align:center;">
 THis is <strong>ocean-162</strong>.<br>
